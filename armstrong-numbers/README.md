@@ -5,7 +5,7 @@ If you need help running the tests or submitting your code, check out `HELP.md`.
 
 ## Instructions
 
-An [Armstrong number][armstrong-number] is a number that is the sum of its own digits each raised to the power of the number of digits.
+An [Armstrong number][armstrong-number] is a number that is the sum of its own digits each raised to the power of the number of digitss
 
 For example:
 
